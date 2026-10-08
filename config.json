@@ -1,0 +1,10 @@
+{
+  "empresa": "Distribuidora Andes Ltda.",
+  "moneda": "CLP",
+  "iva": 0.19,
+  "categorias_prioritarias": [
+    "Tecnología",
+    "Mobiliario"
+  ],
+  "stock_minimo_alerta": 10
+}

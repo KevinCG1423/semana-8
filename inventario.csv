@@ -1,0 +1,16 @@
+id,nombre,categoria,precio_neto,stock
+PR001,"Notebook Lenovo 15""",Tecnología,480000,12
+PR002,Mouse inalámbrico,Tecnología,8500,45
+PR003,Teclado mecánico,Tecnología,35000,20
+PR004,"Monitor 24"" Full HD",Tecnología,120000,8
+PR005,Silla ergonómica,Mobiliario,95000,15
+PR006,Escritorio 120cm,Mobiliario,75000,10
+PR007,Estante metálico,Mobiliario,42000,18
+PR008,Resma papel carta,Oficina,3200,200
+PR009,Cuaderno universitario,Oficina,1500,150
+PR010,Set de lápices,Oficina,2500,90
+PR011,Archivador de palanca,Oficina,2800,60
+PR012,Impresora multifuncional,Tecnología,145000,6
+PR013,Disco duro externo 1TB,Tecnología,55000,25
+PR014,Lámpara de escritorio,Mobiliario,18000,22
+PR015,Pizarra blanca 60x90,Oficina,32000,9
